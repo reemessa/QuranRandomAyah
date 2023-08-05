@@ -1,2 +1,2 @@
 # quoteGenerator
-Use @shevabam API's to get Random quotes from tv shows
+When run it. It will return a random Ayah from a random Sorah (Based on random numbers generation)
